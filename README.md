@@ -1,5 +1,13 @@
 ## Py-AutoClicker
-Py-AutoClicker is a bot that uses Python language which functions to automate mouse clicks for applications or websites that rely on mouse clicks such as popcat.click, popdog.click
+Py-AutoClicker is a bot that uses Python language which functions to automate mouse clicks for applications or websites that rely on mouse clicks such as popcat.click, popdog.click 
+- *Just for fun only!*
+
+## Screenshots :
+- [PopDog.click](https://popdog.click/)
+<img src="https://i.postimg.cc/bwv1hch5/Capture.png">
+
+- [PopCat.click](https://popcat.click/)
+<img src="https://i.postimg.cc/vmkKnthQ/Capture.png">
 
 ## Requirements :
 - [Python](https://python.org/)
