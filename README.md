@@ -26,6 +26,20 @@ pip install pyautogui
 pip3 install pyautogui
 ```
 
+## Change mouse position :
+- Open Python IDLE Shell
+```python
+>>> import pyautogui
+>>> pyautogui.displayMousePosition()
+```
+- You will get the mouse position according to your mouse pointer, if you want to point it at an image to click then point your mouse pointer at the image then wait 1 second after that return to the Python IDLE Shell earlier, Position example :
+```
+Press Ctrl-C to quit.
+X:  757 Y:  363 RGB: (255, 255, 255)
+X:  722 Y:  135 RGB: ( 76,  76,  76)
+```
+- Copy the X and Y Position then go [*here*](https://github.com/RavensVenix/Py-AutoClicker/blob/70529253a4c28e21ed8caa50c622afbce1b0488e/main.py#L45) then change 647, 370 to the mouse position you copied earlier.
+
 ## Command Line :
 ```bash
 git clone https://github.com/RavensVenix/Py-AutoClicker.git
