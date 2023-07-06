@@ -1,8 +1,5 @@
 <h1 align="center">
   Py-AutoClicker <br></h1>
-            < p align="center">
-              <a href="https://www.youtube.com/watch?v=9XcBDbFm8NA"><img title="Size" src="https://img.shields.io/badge/Demo-Video-green"></a>
-              < /p>
                 -- -- --
                 # ``
                 `` < p align="center">
