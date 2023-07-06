@@ -8,11 +8,11 @@
 </ul>
 <p align="left">Donate me if you want :)</p>
 <hr>
-<h1>Install Manually :</h
+<h1>Install Manually :</h1>
 <h2 align="center">Requirements</h2>
 <li><a href="https://python.org/">Python</a></li>
 <li><a href="https://git-scm.com/downloads">Git</a></li>
-<h1>Command Line :</h
+<h1>Command Line :</h1>
 ```bash
 git clone https://github.com/RavensVenix/Py-AutoClicker.git
 cd Py-AutoClicker
