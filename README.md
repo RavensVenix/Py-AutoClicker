@@ -1,8 +1,4 @@
 <h1 align="center">Py-AutoClicker</h1>
-<p align="center">
-  <a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
-  <a href="https://github.com/RavensVenix/zxorkta/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
-</p>
 <hr>
 <h3 align="center">Made by:</h3>
 <p align="center">
