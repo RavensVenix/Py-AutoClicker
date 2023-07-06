@@ -1,13 +1,9 @@
 <h1 align="center">
   Py-AutoClicker <br></h1>
-                -- -- --
                 # ``
                 `` < p align="center">
                   <a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
                   < a href="https://github.com/RavensVenix/zxorkta/graphs/commit-activity"> <img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
-                    </p>
-                    <p align='center'>
-                      <img src="https://telegra.ph/file/7daa5bc8eaba06b323c86.jpg?height=" 428" width="428" />
                     </p>
                     -------
                     <h3 align="center">Made by :</h3>
