@@ -1,10 +1,5 @@
 <h1 align="center">Py-AutoClicker</h1>
 <hr>
-<h3 align="center">Made by:</h3>
-<p align="center">
-  <a href="https://github.com/RavensVenix"><img src="https://github.com/RavensVenix.png?size=128" height="128" width="128" /></a>
-</p>
-<hr>
 <h2 align="center">Let's be friends!</h2>
 <p align="center">
   <a href="https://discordapp.com/users/989346417107689513"><img src="https://img.shields.io/badge/discord-195EFF?style=for-the-badge&logo=Discord&logoColor=ffffff&link=https://www.youtube.com/c/BOTINDO" /></a>
